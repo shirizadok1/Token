@@ -1,3 +1,11 @@
+The Token Wallet
+
+This decentralized app allows anyone who is interested in my tokens/ coins called DCOINS.
+Enter your principal ID and start exploring!
+
+![image](https://user-images.githubusercontent.com/85099151/179529339-f91511c7-d25c-47b4-bac3-21f3e5504060.png)
+
+
 # Check your Balance
 
 1. Find out your principal id:
